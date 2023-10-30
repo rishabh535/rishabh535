@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh535&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh535" /> </p>
 
-- 🔭 I’m currently working on **Power Bi, Machine Learning, EDA**
+- 🔭 I’m currently working on **Power Bi, Machine Learning**
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Data Scientist Projects**
-
-- 💬 Ask me about **anything**
 
 - 📫 How to reach me **rishabh.sharma19@gmail.com**
 
