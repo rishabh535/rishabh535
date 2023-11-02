@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Power Bi, Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Web Scarping**
 
-- 👯 I’m looking to collaborate on **Data Scientist Projects**
+- 👯 I’m looking to collaborate on **Projects**
 
 - 📫 How to reach me **rishabh.sharma19@gmail.com**
 
